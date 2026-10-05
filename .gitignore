@@ -1,0 +1,5 @@
+.DS_Store
+*.jpg
+*_MediaInfo.txt
+__pycache__/
+archive/
